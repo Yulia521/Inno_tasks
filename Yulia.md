@@ -35,4 +35,4 @@ ___
 ![喜欢的头像](%E5%A4%B4%E5%83%8F.jpg)
 啊哦不会诶
 
-<center><font color=#008000>-The End-
+<center><font color=#008000>-The End-</font></center>
